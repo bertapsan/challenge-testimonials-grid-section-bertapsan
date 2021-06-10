@@ -31,8 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-
+- Solution URL: https://bertapsan.github.io/challenge-testimonials-grid-section-bertapsan/
 ## My process
 
 ### Built with
